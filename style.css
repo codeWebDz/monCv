@@ -9,5 +9,7 @@ body{
     align-items: center;
     background: #292828;
     min-height: 100vh;
+    transform: scale(0.6);
+    margin: -390px auto;
     
 }
